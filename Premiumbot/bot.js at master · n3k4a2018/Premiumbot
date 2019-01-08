@@ -1,16 +1,16 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://github.com/n3k4a2018/Premiumbot/blob/master/bot.js
 Subject: =?utf-8?Q?Premiumbot/bot.js=20at=20master=20=C2=B7=20n3k4a2018/Premiumbot?=
-Date: Tue, 8 Jan 2019 07:06:01 -0000
+Date: Tue, 8 Jan 2019 07:16:18 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--7LtrTtHTRKRTdc9o5KFj7tT8SXsA0ytdYYXzkOLh8W----"
+	boundary="----MultipartBoundary--gkbgEMYjq8OxnN15Ot2AEIXEd8MevBVLHcjg4KO2OS----"
 
 
-------MultipartBoundary--7LtrTtHTRKRTdc9o5KFj7tT8SXsA0ytdYYXzkOLh8W----
+------MultipartBoundary--gkbgEMYjq8OxnN15Ot2AEIXEd8MevBVLHcjg4KO2OS----
 Content-Type: text/html
-Content-ID: <frame-4403B59D1316E1FC6EAA33FFC9F6C066@mhtml.blink>
+Content-ID: <frame-FAC49836FD86E39CD911E1B36CD1851B@mhtml.blink>
 Content-Transfer-Encoding: binary
 Content-Location: https://github.com/n3k4a2018/Premiumbot/blob/master/bot.js
 
@@ -46,10 +46,10 @@ Content-Location: https://github.com/n3k4a2018/Premiumbot/blob/master/bot.js
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/42242199?s=400&amp;v=4"><meta property="og:site_name" content="GitHub"><meta property="og:type" content="object"><meta property="og:title" content="n3k4a2018/Premiumbot"><meta property="og:url" content="https://github.com/n3k4a2018/Premiumbot"><meta property="og:description" content="n3k4a is one . Contribute to n3k4a2018/Premiumbot development by creating an account on GitHub.">
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzU5MDE0MjQwOjQwNzE4YzlhZjk1MTkzZmMzZTUxN2NlMmYzMjRhOGNjMTExYWQ0ZDcxMzRmMGVhN2FkNzY0YTEyNzEzY2YwM2I=--522f6e4a538dfc6cf3d8ea7d8e4acaf8fbe901c9">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzU5MDE0MjQwOmM4N2U1ZWM2ZTkzMTU2ZDM5NjQzMjIzY2YyMDgwNWQ0NGIxNDJkYTkxMTJmMzA0ZWM3NjIwOGZiMGU3ZDhlZjg=--357bc8bdedeba9c88d02a3c78d6427ec7a688819">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
-  <meta name="request-id" content="8EC8:1587D:9B42BBD:DDC5508:5C344BCF" data-pjax-transient="">
+  <meta name="request-id" content="A8F2:15866:24FC2D:35C91F:5C344E35" data-pjax-transient="">
 
 
   
@@ -60,7 +60,7 @@ Content-Location: https://github.com/n3k4a2018/Premiumbot/blob/master/bot.js
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="github"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event"><meta name="octolytics-dimension-request_id" content="8EC8:1587D:9B42BBD:DDC5508:5C344BCF"><meta name="octolytics-dimension-region_edge" content="ams"><meta name="octolytics-dimension-region_render" content="iad"><meta name="octolytics-actor-id" content="43995604"><meta name="octolytics-actor-login" content="ahmedmaher10"><meta name="octolytics-actor-hash" content="dc8ea6ffa9a6a1cedfc1f3ba36595c2df20d84bae7d1f203f6ddef18dd967c68">
+  <meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="github"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event"><meta name="octolytics-dimension-request_id" content="A8F2:15866:24FC2D:35C91F:5C344E35"><meta name="octolytics-dimension-region_edge" content="ams"><meta name="octolytics-dimension-region_render" content="iad"><meta name="octolytics-actor-id" content="43995604"><meta name="octolytics-actor-login" content="ahmedmaher10"><meta name="octolytics-actor-hash" content="dc8ea6ffa9a6a1cedfc1f3ba36595c2df20d84bae7d1f203f6ddef18dd967c68">
 <meta name="analytics-location" content="/<user-name>/<repo-name>/blob/show" data-pjax-transient="true">
 
 
@@ -80,7 +80,7 @@ Content-Location: https://github.com/n3k4a2018/Premiumbot/blob/master/bot.js
     <meta name="user-login" content="ahmedmaher10">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YTJkMTE3MGM5MjkwYTIyNDRlY2MxOTZlNzg1MWU0MTVhMmIzOTU4ODUxNWRkZWIzOGUxZDFhZmUyZjMwNTYxNHx7InJlbW90ZV9hZGRyZXNzIjoiMTU2LjIxNy4zMS4xODQiLCJyZXF1ZXN0X2lkIjoiOEVDODoxNTg3RDo5QjQyQkJEOkREQzU1MDg6NUMzNDRCQ0YiLCJ0aW1lc3RhbXAiOjE1NDY5MzExNTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ZTQ3MzA1ZWIzMzA4OWI4YjFjNmVmNjhhOGZjZGEwZDZkZGQ1ZGUzOTg1OTA0OTgxNmQ0MDQ1OWE2YTI4YTUzNnx7InJlbW90ZV9hZGRyZXNzIjoiMTU2LjIxNy4zMS4xODQiLCJyZXF1ZXN0X2lkIjoiQThGMjoxNTg2NjoyNEZDMkQ6MzVDOTFGOjVDMzQ0RTM1IiwidGltZXN0YW1wIjoxNTQ2OTMxNzY2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
 
@@ -564,7 +564,7 @@ Content-Location: https://github.com/n3k4a2018/Premiumbot/blob/master/bot.js
         <a class="commit-tease-sha" href="https://github.com/n3k4a2018/Premiumbot/commit/ec71acb2b7bbafd53da9b49f0254bae023c69a06" data-pjax="">
           ec71acb
         </a>
-        <relative-time datetime="2018-12-24T19:36:50Z" title="24 Ø¯ÙŠØ³Ù…Ø¨Ø± 2018 9:36 Ù… ØºØ±ÙŠÙ†ØªØ´+2">14 days ago</relative-time>
+        <relative-time datetime="2018-12-24T19:36:50Z" title="24 Ø¯ÙŠØ³Ù…Ø¨Ø± 2018 9:36 Ù… ØºØ±ÙŠÙ†ØªØ´+2">15 days ago</relative-time>
       </span>
       <div>
         <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=42242199" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/n3k4a2018" aria-describedby="hovercard-aria-description"><img class="avatar" src="https://avatars0.githubusercontent.com/u/42242199?s=40&amp;v=4" width="20" height="20" alt="@n3k4a2018"></a>
@@ -10736,7 +10736,7 @@ Content-Location: https://github.com/n3k4a2018/Premiumbot/blob/master/bot.js
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">Â© 2019 <span title="0.28207s from unicorn-657d5594-zpvfv">GitHub</span>, Inc.</li>
+      <li class="mr-3">Â© 2019 <span title="0.33738s from unicorn-657d5594-v2rx9">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -10822,7 +10822,7 @@ Content-Location: https://github.com/n3k4a2018/Premiumbot/blob/master/bot.js
 
 
 </body></html>
-------MultipartBoundary--7LtrTtHTRKRTdc9o5KFj7tT8SXsA0ytdYYXzkOLh8W----
+------MultipartBoundary--gkbgEMYjq8OxnN15Ot2AEIXEd8MevBVLHcjg4KO2OS----
 Content-Type: text/css
 Content-Transfer-Encoding: binary
 Content-Location: https://github.githubassets.com/assets/frameworks-815bad80846128500b79089e54e26457.css
@@ -14138,7 +14138,7 @@ a.tabnav-extra:hover { color: rgb(3, 102, 214); text-decoration: none; }
 .show-on-focus { clip: rect(1px, 1px, 1px, 1px); margin: 0px; }
 
 .show-on-focus:focus { clip: auto; height: auto; width: auto; z-index: 20; }
-------MultipartBoundary--7LtrTtHTRKRTdc9o5KFj7tT8SXsA0ytdYYXzkOLh8W----
+------MultipartBoundary--gkbgEMYjq8OxnN15Ot2AEIXEd8MevBVLHcjg4KO2OS----
 Content-Type: text/css
 Content-Transfer-Encoding: binary
 Content-Location: https://github.githubassets.com/assets/github-ca1ca363d91a32c0a38d255735398c91.css
@@ -23715,7 +23715,7 @@ ul.clones li { width: 170px; }
 .wiki-pages-box .filterable-active .wiki-more-pages, .wiki-pages-box.wiki-show-more .wiki-more-pages { display: block; }
 
 .wiki-pages-box .filterable-active .wiki-more-pages-link, .wiki-pages-box.wiki-show-more .wiki-more-pages-link { display: none; }
-------MultipartBoundary--7LtrTtHTRKRTdc9o5KFj7tT8SXsA0ytdYYXzkOLh8W----
+------MultipartBoundary--gkbgEMYjq8OxnN15Ot2AEIXEd8MevBVLHcjg4KO2OS----
 Content-Type: image/png
 Content-Transfer-Encoding: binary
 Content-Location: https://avatars2.githubusercontent.com/u/43995604?s=40&v=4
@@ -23723,7 +23723,7 @@ Content-Location: https://avatars2.githubusercontent.com/u/43995604?s=40&v=4
 ‰PNG
 
    IHDR  ¤  ¤   ñ.Æb  ÎIDATxœì×ÁÉPFÑ¼ğŠ°E±±E‡§„´ñâ¿×jà|7×ïÌüøé~¯ ğ±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±¾]:¯û±[9ömõZ|GÿÌËH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€„ïêïv^÷ê	À_ùÌÌêo¥t,qìÛê	¯ä7H; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±>3óÌ¥óºŸ9¼Ë±o\ñ²ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄHøÌÌêou^÷ê	û¶zÂ+yÙ	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	b$ˆ v@‚Ø	Ÿ™Y½à¿ó²ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ÄH; Aì€±ş  ÿÿ]ƒ"o !¯H    IEND®B`‚
-------MultipartBoundary--7LtrTtHTRKRTdc9o5KFj7tT8SXsA0ytdYYXzkOLh8W----
+------MultipartBoundary--gkbgEMYjq8OxnN15Ot2AEIXEd8MevBVLHcjg4KO2OS----
 Content-Type: image/png
 Content-Transfer-Encoding: binary
 Content-Location: https://avatars0.githubusercontent.com/u/42242199?s=40&v=4
@@ -23736,4 +23736,4 @@ jôkÏú»ˆV!®Â¦Àÿ`Ü€³÷(‚Ÿ÷ñÀÜÜcLÓ´~
 ËÿšÊÿÔl	<€ÕáĞ>s£½]FàRaëV‡¿öÛ…k7VZüËF7‰¨Y±‡®0ÀãF»Ù!¢eØo¨’
 GsüYKï&#Fi­¤x)¯Hç/6Msºju£“^å x§áĞËK§RI ]]Sk5›h‰Ñoœ=tïÀ«s3gß^ªÙ™-@)/CÒË:¹ûÓTy"µïßÁì2ğëÊÆ£.¢×«£ÆHÆƒñµÙİrò‡ş{VªĞR%'ÊòÌÁsë«¶³[ä «ªzsJ]Z-tĞ;„jDYŸO'k]²Q¹W¶~ Ä]ÚS)ÄÒ­c²wó{ p.™™ë$-§™÷CJéEç¤jÌx0<+£RB¢ j@Mï¬¡Õr-\Òu§¿Ó€W6ÖŞ*¬Ÿø‰„”šÜQÜÛŞlÛÀÇå[Ön2÷ßV«ÇµJ)“O¯,İ~HàH„…ñZcDá$uÌKs]Ş_¸šB“Ş”"è•}_ªW·5VğsÉUQ¥Lñ¬ÛÌ>>'¢l¢J6S­lzYŒGWŠ»íÃWEÎ×–Šb+cŠ–óÅkÍéZ“zYp½Ÿe
 ğ1»íGş¹º1?•ã+ëŒp¡‰uº~<½Òº×5î\¿ØdúB¥´»ÍÁ_¢ÁĞ«ÉìaJß«”_Ëeç]&=l‚§YïM¢hw/rşİÆº»÷SØÃÊ°.Ü‘¡B}ŸŒÅ¨A$„=ú‚P…ºw³¸%û_\ÿ)ò¤]a?,  ÿÿÍY'kCĞ    IEND®B`‚
-------MultipartBoundary--7LtrTtHTRKRTdc9o5KFj7tT8SXsA0ytdYYXzkOLh8W------
+------MultipartBoundary--gkbgEMYjq8OxnN15Ot2AEIXEd8MevBVLHcjg4KO2OS------
